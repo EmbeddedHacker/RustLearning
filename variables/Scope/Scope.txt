@@ -1,0 +1,1 @@
+A scope is the range within the program for which the item is valid.
